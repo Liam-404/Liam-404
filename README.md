@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Liam-404
+- 👀 I’m interested in Animals and making 3D models in blockbench
+- 🌱 I’m currently learning video game designing and programming
+- 💞️ I’m looking to collaborate on a 3D video game creature
+- 📫 How to reach me jonaekristie@gmail.com
+- 😄 Pronouns: they/them he/she
+- ⚡ Fun fact: I rescue Anmimals mainly cats and dogs but i will occasionally take in birds and reptiles
