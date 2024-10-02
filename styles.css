@@ -1,0 +1,14 @@
+body{background-color:royalblue;
+	color: whitesmoke;
+	font-family:"comic sans ms" ;
+
+}
+h1,h2{
+	font-family: "comic sans ms" ;
+}
+.jfif{
+  width:300px;
+  height:300px;
+  object-fit:cover;
+  border-radius:50%;
+}
